@@ -22,7 +22,7 @@ d = """
                                                
 
 """
-os.system("termux-open-url https://t.me/andro_py")
+os.system("termux-open-url https://t.me/darknet_off1cial")
 print(d)
 url = input("Admin panelni kiriting: ")
 username = input("Foydalanuvchi nomingizni kiriting: ")
