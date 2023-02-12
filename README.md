@@ -1,5 +1,5 @@
 # BRUTEFORCE BY DARKNET OFF1CIAL
-$ git clone https://github.com/darknetUzb/BRUTEFORCE-
+$ git clone https://github.com/xiroshigo/BRUTEFORCE-
 
 $ cd BRUTEFORCE-
 
