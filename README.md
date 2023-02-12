@@ -11,7 +11,7 @@ Admin page
 
 Name all
 
-LoginID: password
+LoginID: master-darkner
 
 Shakaboom bruteforse started
 
